@@ -10,4 +10,3 @@ Outside of coding, I am an avid board gaming enthusiast. Much like the strategic
 
 ![https://www.linkedin.com/in/karldaniel/](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 ![https://medium.com/@kkjdaniel](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
-##### Technical Director @ [KD Digital Services](www.karldaniel.co.uk)
