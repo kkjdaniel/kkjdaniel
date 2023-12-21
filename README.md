@@ -8,5 +8,5 @@ Beyond the realms of JavaScript, I also embrace the simplicity and efficiency of
 
 Outside of coding, I am an avid board gaming enthusiast. Much like the strategic thinking and problem-solving inherent in programming, I appreciate the intricate challenges and social dynamics that board games bring. This dual passion reflects my commitment to creativity, continuous learning, and finding joy in both the digital and analogue realms.
 
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/karldaniel/)
-![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)(https://medium.com/@kkjdaniel)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karldaniel/)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@kkjdaniel)
